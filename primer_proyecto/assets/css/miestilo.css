@@ -1,0 +1,70 @@
+
+body{
+    background-color: #b4bfc4;
+}
+
+.presentacion {
+    text-align: justify;
+    color: black;
+}
+
+
+header {
+    background-color: #211d1d;
+    text-align: center;
+    padding: 20px;
+    }
+
+
+section {
+    padding: 20px;
+}
+.foto {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 30%; 
+    border: 3px solid #45bdb9; 
+}
+
+.articulo {
+    text-align: center;
+}
+
+footer {
+    background-color: #5da4c3;
+    color: #fff;
+    padding: 20px; 
+}
+
+
+.carousel-inner {
+   max-width: 50%;
+   margin: 0 auto;
+   display: block;
+
+    
+}
+.container-fluid {
+   max-width: 70%;
+}
+
+.logo {
+    max-width: 10%;
+    margin: 0%;
+    padding: 0%;
+}
+.logos_quienes_somos {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 60%; 
+    
+}
+.textoFormacion,
+.quienes_somos,
+.inicio,
+.acerca_de {
+    text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
